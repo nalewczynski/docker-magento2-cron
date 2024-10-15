@@ -1,5 +1,5 @@
-FROM fballiano/magento2-apache-php:M2.4.6
-MAINTAINER Fabrizio Balliano <fabrizio@fabrizioballiano.com>
+FROM magento2-apache-php-arm64
+MAINTAINER Maciej Nalewczynski <maciej.nalewczynski@gmail.com>
 
 ADD crontab /crontab.www-data
 ADD start.sh /start.sh
