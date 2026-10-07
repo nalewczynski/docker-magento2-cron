@@ -1,4 +1,3 @@
-# Cron Docker image for Magento2 infrastructure
+# Magento 2 cron image
 
-[![](https://images.microbadger.com/badges/version/fballiano/magento2-cron.svg)](http://microbadger.com/images/fballiano/magento2-cron)
-[![](https://images.microbadger.com/badges/image/fballiano/magento2-cron.svg)](http://microbadger.com/images/fballiano/magento2-cron)
+This image runs Magento cron jobs in a dedicated container for the single-node production baseline.
